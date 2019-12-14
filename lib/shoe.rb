@@ -13,4 +13,3 @@ class Shoe
     BRANDS << brand
   end
 end
-new_shoe = Shoe.new("Nike")
